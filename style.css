@@ -172,7 +172,6 @@ div.video > iframe {
 ul {
   list-style-type: "\2714\0020\0020";
   columns: 2;
-  list-style-position: inside;
   text-align: left;
 }
 
