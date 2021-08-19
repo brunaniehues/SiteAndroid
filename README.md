@@ -5,4 +5,4 @@
    >.
   </p>
 
-<p>Acesse aqui : <a href="">https://brunaniehues.github.io/SiteAndroid/</a></p>
+<p>Acesse aqui : https://brunaniehues.github.io/SiteAndroid/</p>
